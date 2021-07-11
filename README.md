@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **MERN Stack**.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms in C++**
+- 🌱 I’m currently learning **Data Structures and Algorithms in C++**.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects**.
 
-- ⚡ Fun fact **I am on a journey to become Code Yoda**
+- ⚡ Fun fact **I am on a journey to become Code Yoda**.
 
 ## 🚀 Languages and Tools:
 
