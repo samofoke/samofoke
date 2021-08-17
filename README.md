@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently looking into deeper understanding of **Data Structures and Algorithms**.
 
-<!---- 👯 I’m looking to collaborate on **OpenSource Projects**.--->
+- 👯 I’m looking to collaborate on **OpenSource Projects**.
 
-- ⚡ Fun fact **I am on a journey to become Code Yoda**.
+- ⚡ **I am on a journey to become Code Yoda**.
 
-##Languages and Tools:
+## Languages and Tools:
 
 <p align="left">
     <a href="https://devdocs.io/c/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
