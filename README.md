@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">, I'm Sabata</h1>
+<h1 align="center">Hi I'm Sabata</h1>
 <h3 align="center">I'am a Software Engineer </h3>
 
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
-- ⚡ **I am on a journey to become Code Yoda**.
+- ⚡ **I am on a journey to refine my skills in Software Engineering and Architecture**.
 
 ## Languages and Tools:
 
