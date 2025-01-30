@@ -47,7 +47,8 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=samofoke)](https://git.io/streak-stats)
+ <a href="https://github.com/samofoke/github-readme-stats"><img alt="Sabata's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samofoke&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/samofoke/github-readme-stats"><img alt="Sabata's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samofoke&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ## 📊 My Github Stats
 
