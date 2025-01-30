@@ -47,11 +47,7 @@
 
 <br/>
 
-<p align="center">
-    <a href="/github-readme-streak-stats">
-        [![GitHub Streak](https://streak-stats.demolab.com/?user=samofoke)](https://git.io/streak-stats)
-    </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=samofoke)](https://git.io/streak-stats)
 
 ## 📊 My Github Stats
 
