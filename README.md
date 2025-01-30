@@ -48,7 +48,7 @@
 <br/>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=samofoke&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=samofoke&theme=dark"/>
     <img src="https://streak-stats.demolab.com?user=samofoke&theme=default" />
 </picture>
 
