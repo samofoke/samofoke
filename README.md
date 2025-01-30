@@ -49,7 +49,7 @@
 
 <p align="center">
     <a href="/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at [![GitHub Streak](https://streak-stats.demolab.com/?user=samofoke)](https://git.io/streak-stats)&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        [![GitHub Streak](https://streak-stats.demolab.com/?user=samofoke)](https://git.io/streak-stats)
     </a>
 </p>
 
