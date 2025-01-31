@@ -49,7 +49,7 @@
 
 <p>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=samofoke&theme=dark"/>
-    <img src="https://streak-stats.demolab.com?user=samofoke&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=samofoke&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
 </p>
 
 ## 📊 My Github Stats
