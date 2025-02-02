@@ -4,7 +4,7 @@
 
 
 ## 🙋‍♂️ About Me
-- As a Software Engineer, I have been responsible for designing and implementing end-to-end web solutions, working with both front-end and back-end technologies. I have extensive experience with React and Angular for the Front-End, Node.js, and Express.js. I have also worked with a range of databases, including Oracle database, MongoDB, and PostgreSQL, and have experience with cloud platforms such as AWS. I am also familiar with DevOps practices, such as continuous integration and delivery, and have experience with tools such as Docker and Kubernetes.
+- As a Software Engineer with 4+ years, I have been responsible for designing and implementing end-to-end web solutions, working with both front-end and back-end technologies. I have extensive experience with React and Angular for the Front-End, Node.js, and Express.js. I have also worked with a range of databases, including Oracle database, MongoDB, and PostgreSQL, and have experience with cloud platforms such as AWS. I am also familiar with DevOps practices, such as continuous integration and delivery, and have experience with tools such as Docker and Kubernetes.
 
 - One of my most significant accomplishments was the Migration of the QA platform, which is used by thousands of users. I worked on the entire stack, from the front-end user interface to the back-end server and database, and ensured that the application was scalable and performant. I am passionate about technology and enjoy solving complex problems. I am also a strong communicator and team player, and I am always looking for ways to improve processes and workflows.
 
