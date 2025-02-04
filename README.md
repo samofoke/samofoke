@@ -32,7 +32,6 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
